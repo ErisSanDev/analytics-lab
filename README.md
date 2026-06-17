@@ -1,4 +1,5 @@
-# Analytics Lab
+<h1 align="center">Analytics Lab</h1>
+
 
 A professional repository dedicated to continuous learning and hands-on practice in **SQL, DAX, Python, Power BI, and Data Analytics**.
 
