@@ -1,0 +1,32 @@
+-- Q1
+Total Sales Amount =
+SUMX(
+    Sales,
+    Sales[Quantity] * Sales[UnitPrice]
+)
+
+-- Q2
+Line Revenue =
+Sales[Quantity] * Sales[UnitPrice]
+
+-- Q3
+Average Unit Price =
+AVERAGE(Sales[UnitPrice])
+
+-- Q4
+Furniture Revenue =
+CALCULATE(
+    SUMX(
+        Sales,
+        Sales[Quantity] * Sales[UnitPrice]
+    ),
+    Sales[Category] = "Furniture"
+)
+
+-- Q5
+Furniture Revenue % =
+DIVIDE(
+    [Furniture Revenue],
+    [Total Sales Amount],
+    0
+)
