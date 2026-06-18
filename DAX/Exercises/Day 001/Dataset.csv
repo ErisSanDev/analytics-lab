@@ -1,57 +1,56 @@
-| SaleID | Product         | Category    | Quantity | UnitPrice |
-| ------ | --------------- | ----------- | -------- | --------- |
-| 1      | Mouse           | Electronics | 2        | 800       |
-| 2      | Keyboard        | Electronics | 1        | 1200      |
-| 3      | Notebook        | Stationery  | 5        | 100       |
-| 4      | Chair           | Furniture   | 1        | 5000      |
-| 5      | Lamp            | Furniture   | 2        | 1500      |
-| 6      | Monitor         | Electronics | 1        | 12000     |
-| 7      | Desk            | Furniture   | 1        | 8000      |
-| 8      | Pen             | Stationery  | 10       | 20        |
-| 9      | Printer         | Electronics | 1        | 15000     |
-| 10     | Sofa            | Furniture   | 1        | 25000     |
-| 11     | Eraser          | Stationery  | 8        | 10        |
-| 12     | Headphones      | Electronics | 2        | 2500      |
-| 13     | Bookshelf       | Furniture   | 1        | 7000      |
-| 14     | Marker          | Stationery  | 6        | 50        |
-| 15     | Webcam          | Electronics | 1        | 3500      |
-| 16     | Table           | Furniture   | 1        | 10000     |
-| 17     | Pencil          | Stationery  | 12       | 15        |
-| 18     | Router          | Electronics | 1        | 2200      |
-| 19     | Cupboard        | Furniture   | 1        | 18000     |
-| 20     | File Folder     | Stationery  | 5        | 80        |
-| 21     | SSD             | Electronics | 2        | 4500      |
-| 22     | Bed             | Furniture   | 1        | 30000     |
-| 23     | Stapler         | Stationery  | 3        | 150       |
-| 24     | Speaker         | Electronics | 2        | 4000      |
-| 25     | Coffee Table    | Furniture   | 1        | 6000      |
-| 26     | Sketchbook      | Stationery  | 4        | 200       |
-| 27     | Laptop          | Electronics | 1        | 65000     |
-| 28     | Wardrobe        | Furniture   | 1        | 35000     |
-| 29     | Glue            | Stationery  | 7        | 40        |
-| 30     | Power Bank      | Electronics | 2        | 1800      |
-| 31     | TV Stand        | Furniture   | 1        | 9000      |
-| 32     | Calculator      | Stationery  | 2        | 500       |
-| 33     | Tablet          | Electronics | 1        | 25000     |
-| 34     | Recliner        | Furniture   | 1        | 15000     |
-| 35     | Highlighter     | Stationery  | 5        | 60        |
-| 36     | Smartwatch      | Electronics | 2        | 7000      |
-| 37     | Study Desk      | Furniture   | 1        | 12000     |
-| 38     | Binder          | Stationery  | 4        | 120       |
-| 39     | Mobile Phone    | Electronics | 1        | 30000     |
-| 40     | Dining Table    | Furniture   | 1        | 22000     |
-| 41     | Whiteboard      | Stationery  | 1        | 2500      |
-| 42     | Earbuds         | Electronics | 3        | 1500      |
-| 43     | Office Chair    | Furniture   | 2        | 6500      |
-| 44     | Sticky Notes    | Stationery  | 10       | 30        |
-| 45     | Gaming Mouse    | Electronics | 2        | 2200      |
-| 46     | Shoe Rack       | Furniture   | 1        | 4500      |
-| 47     | Journal         | Stationery  | 3        | 250       |
-| 48     | Projector       | Electronics | 1        | 28000     |
-| 49     | Bean Bag        | Furniture   | 2        | 3500      |
-| 50     | Clipboard       | Stationery  | 4        | 100       |
-| 51     | External HDD    | Electronics | 1        | 5500      |
-| 52     | Side Table      | Furniture   | 2        | 2800      |
-| 53     | Correction Pen  | Stationery  | 6        | 35        |
-| 54     | Gaming Keyboard | Electronics | 1        | 4500      |
-| 55     | Book Rack       | Furniture   | 1        | 8500      |
+SaleID,Product,Category,Quantity,UnitPrice
+1,Mouse,Electronics,2,800
+2,Keyboard,Electronics,1,1200
+3,Notebook,Stationery,5,100
+4,Chair,Furniture,1,5000
+5,Lamp,Furniture,2,1500
+6,Monitor,Electronics,1,12000
+7,Desk,Furniture,1,8000
+8,Pen,Stationery,10,20
+9,Printer,Electronics,1,15000
+10,Sofa,Furniture,1,25000
+11,Eraser,Stationery,8,10
+12,Headphones,Electronics,2,2500
+13,Bookshelf,Furniture,1,7000
+14,Marker,Stationery,6,50
+15,Webcam,Electronics,1,3500
+16,Table,Furniture,1,10000
+17,Pencil,Stationery,12,15
+18,Router,Electronics,1,2200
+19,Cupboard,Furniture,1,18000
+20,File Folder,Stationery,5,80
+21,SSD,Electronics,2,4500
+22,Bed,Furniture,1,30000
+23,Stapler,Stationery,3,150
+24,Speaker,Electronics,2,4000
+25,Coffee Table,Furniture,1,6000
+26,Sketchbook,Stationery,4,200
+27,Laptop,Electronics,1,65000
+28,Wardrobe,Furniture,1,35000
+29,Glue,Stationery,7,40
+30,Power Bank,Electronics,2,1800
+31,TV Stand,Furniture,1,9000
+32,Calculator,Stationery,2,500
+33,Tablet,Electronics,1,25000
+34,Recliner,Furniture,1,15000
+35,Highlighter,Stationery,5,60
+36,Smartwatch,Electronics,2,7000
+37,Study Desk,Furniture,1,12000
+38,Binder,Stationery,4,120
+39,Mobile Phone,Electronics,1,30000
+40,Dining Table,Furniture,1,22000
+41,Whiteboard,Stationery,1,2500
+42,Earbuds,Electronics,3,1500
+43,Office Chair,Furniture,2,6500
+44,Sticky Notes,Stationery,10,30
+45,Gaming Mouse,Electronics,2,2200
+46,Shoe Rack,Furniture,1,4500
+47,Journal,Stationery,3,250
+48,Projector,Electronics,1,28000
+49,Bean Bag,Furniture,2,3500
+50,Clipboard,Stationery,4,100
+51,External HDD,Electronics,1,5500
+52,Side Table,Furniture,2,2800
+53,Correction Pen,Stationery,6,35
+54,Gaming Keyboard,Electronics,1,4500
+55,Book Rack,Furniture,1,8500
