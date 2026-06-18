@@ -1,4 +1,4 @@
-# Day 01 - SQL Practice
+<h1 align="center">Day 01 - SQL Practice</h1>
 
 This project contains basic SQL practice questions using a simple sales database.
 
