@@ -168,8 +168,6 @@ LEFT JOIN Orders o
   LEFT JOIN
   (Includes products with no sales)
 
-  COALESCE:
-  Replaces NULL with 0 for products without sales.
 ===========================================================*/
 SELECT
     p.product_name,
