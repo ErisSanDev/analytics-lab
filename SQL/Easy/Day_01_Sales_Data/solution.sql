@@ -143,9 +143,6 @@ INNER JOIN Orders o
   Q4. Display all customers, including those who have never
       placed an order
 
-  Business Requirement:
-  Customer Success team needs a complete customer list.
-
   Join Type:
   LEFT JOIN
 ===========================================================*/
