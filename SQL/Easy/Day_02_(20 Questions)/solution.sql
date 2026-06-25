@@ -1,3 +1,26 @@
+/*===========================================================
+  DAY 02 - SQL PRACTICE
+  Date: 17-06-2026
+
+  Database: TempDB
+
+  Topics Covered:
+ SELECT
+✅ WHERE
+✅ GROUP BY
+✅ HAVING
+✅ ORDER BY
+✅ LIMIT
+✅ Aggregate Functions (SUM, AVG, COUNT, MAX)
+✅ Date Functions
+✅ Numeric Functions
+✅ String Functions
+✅ DISTINCT
+✅ CASE Expression
+✅ Column Aliases (AS)
+✅ Arithmetic Expressions
+===========================================================*/
+
 -- Q1: Find the top 5 regions with the highest total sales during the current year.
 SELECT Region, SUM(SalesAmount) AS TotalSales
 FROM sales
