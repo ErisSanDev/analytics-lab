@@ -1,4 +1,4 @@
-# Day 01 - Different Questions
+# Day 02 - Different Questions
 
 📊 Database: TempDB
 
