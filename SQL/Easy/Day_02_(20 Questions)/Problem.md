@@ -1,4 +1,6 @@
+# Day 01 - Sales Analysis
 
+📊 Database: TempDB
 
 Q1: Find the top 5 regions with the highest total sales during the current year.
 
