@@ -1,4 +1,4 @@
-# Day 01 - Sales Analysis
+# Day 01 - Different Questions
 
 📊 Database: TempDB
 
