@@ -1,4 +1,4 @@
-# Day 001 - Order Sales Analysis
+# Day 002 - Order Sales Analysis
 
 Dataset: Orders
 
