@@ -1,0 +1,34 @@
+# Day 002: Order Sales Analysis
+
+Q1:
+Answer:
+       Total Sales = SUM(Orders[OrderID])
+
+Q2:
+Answer:
+       Order Size = 
+IF(
+    Orders[SalesAmount] >= 10000,
+     "High Value",
+     "Low Value"
+)
+
+Q3:
+Answer:
+       Total Quantity Sold = SUM(Orders[Quantity])
+
+Q4:
+Answer:
+       Sales from Electronics Category Only = 
+CALCULATE(
+    [Total Sales],
+    Orders[Category] = "Electronics"
+)
+
+Q5:
+Answer:
+       Average Revenue Per Order = 
+DIVIDE(
+    [Total Sales],
+    [Number of Orders]
+)
